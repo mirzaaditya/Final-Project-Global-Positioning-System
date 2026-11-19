@@ -1,8 +1,6 @@
 ### Project Akhir Global Positioning System Kelas IF-B
-| Anggota | NIM |
-| :--- | :--- | :--- |
-| Mirza Aditya Mahendra | 123240184 |
-| Muhammad Ikhsan Firdaus Saelan | 123240202 |
+### Mirza Aditya Mahendra / 123240184
+### Muhammad Ikhsan Firdaus Saelan / 123240202
 
 
 
