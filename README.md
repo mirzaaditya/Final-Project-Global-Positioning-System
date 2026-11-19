@@ -1,7 +1,7 @@
-# Project Akhir Global Positioning System
-# Kelas IF-B
-# Mirza Aditya MAhendra / 123240184
-# Muhammad Ikhsan Firdaus Saelan / 123240202 
+### Project Akhir Global Positioning System
+### Kelas IF-B
+### Mirza Aditya MAhendra / 123240184
+### Muhammad Ikhsan Firdaus Saelan / 123240202 
 
 
 
