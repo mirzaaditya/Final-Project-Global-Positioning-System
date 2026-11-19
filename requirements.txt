@@ -1,0 +1,8 @@
+streamlit>=1.37.0
+folium>=0.17.0
+streamlit-folium>=0.22.0
+geopandas>=1.0.0
+shapely>=2.0.0
+pandas>=2.2.0
+numpy>=1.26.0
+streamlit-js-eval>=0.1.7

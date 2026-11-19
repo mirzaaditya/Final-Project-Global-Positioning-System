@@ -1,0 +1,26 @@
+[
+  {
+    "halte": "Halte UPN Veteran",
+    "kategori": "🔵 Armada Bus Baru Tiba",
+    "catatan": "5B baru lewat",
+    "waktu": "19:01 WIB"
+  },
+  {
+    "halte": "Halte Malioboro 1 (Inna Garuda)",
+    "kategori": "🟡 Ramai Penumpang",
+    "catatan": "Antrean sore cukup padat menuju arah Selatan, bus Kor. 1A baru saja berangkat.",
+    "waktu": "12:45 WIB"
+  },
+  {
+    "halte": "Halte UPN Veteran",
+    "kategori": "🟢 Sepi & Nyaman",
+    "catatan": "Kursi tunggu kosong, layar jadwal aktif, cuaca cerah.",
+    "waktu": "12:30 WIB"
+  },
+  {
+    "halte": "Halte Terminal Condong Catur",
+    "kategori": "🔵 Bus Baru Tiba",
+    "catatan": "Armada Kor. 3A dan 2B sedang ngetem siap berangkat.",
+    "waktu": "12:15 WIB"
+  }
+]
